@@ -1,3 +1,7 @@
 import pandas as pd
+import os
 
-print("hi")
+PokeStats = pd.read_excel(
+    "/Users/zademahayni/Documents/GitHub/Pokemon/PokemonStats.xlsx"
+)
+

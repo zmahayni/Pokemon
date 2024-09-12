@@ -1,4 +1,4 @@
-#!/Users/zademahayni/Documents/GitHub/Pokemon/.venv/bin/python
+#!/Users/zademahayni/Documents/GitHub/Pokemon/.venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
